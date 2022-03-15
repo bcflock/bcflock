@@ -1,7 +1,7 @@
 ### Hi there 👋
-I'm Ben. I'm currently a third-year student studying Computer Science and Data Science at Case Western Reserve University
-### 🔭 I’m currently working on 
-My current big project is HackCWRU, for which I am the Design Director, and I am responsible for updating and maintaining the website.
+I'm Ben. I'm currently a third-year student studying Computer Science and Data Science at Case Western Reserve University.
+### 🔭 I’m currently working on...
+My current big project is HackCWRU, for which I am the Design Director, and I am responsible for updating and maintaining the website. 
 <!--
 ### 🌱 I’m currently learning
 
