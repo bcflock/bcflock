@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Ben. I'm currently a third-year student studying Computer Science and Data Science at Case Western Reserve University.
+I'm Ben. I'm currently a fourth-year student studying Computer Science and Data Science at Case Western Reserve University.
 <!--
 
 ### 🔭 I’m currently working on...
