@@ -13,7 +13,7 @@ IoT, Data Engineering, Network Analysis, and Data Mining. I'm interested in how 
 -->
 
 ### 📫 How to reach me:
-bcflock@gmail.com
+bcflock@gmail.com (Please put "GITHUB" in all caps in the subject line so I know where you came from)
 
 <!--### 😄 Pronouns: ...
 -->
