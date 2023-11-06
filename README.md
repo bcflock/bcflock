@@ -1,10 +1,10 @@
 ### Hi there 👋
-I'm Ben. I'm currently a fourth-year student studying Computer Science and Data Science at Case Western Reserve University. I've done development work for startups involving data transformation, and I've worked with Machine Learning and App and Web Development in my courses. My main interests are in software reliability, security, and predictive modeling.
+I'm Ben. I'm currently a fourth-year student studying Computer Science and Data Science at Case Western Reserve University. I've done development work for startups involving data transformation, and I've worked with Machine Learning and App and Web Development in my courses. My main interests are in systems architecture, network analysis, and predictive modeling.
 
 <!--### 🔭 I’m currently working on...
 -->
 ### 🌱 I’m currently learning
-IoT, Data Engineering, Network Analysis, and Data Mining. I'm interested in how connected devices interact with each other, whether that's routers, computers, or IoT edge devices. 
+Bioinformatics and Software Architecture 
 <!--### 👯 I’m looking to collaborate on ...
 -->
 <!--### 💬 Ask me about ...
