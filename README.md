@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Ben. I'm currently a fourth-year student studying Computer Science and Data Science at Case Western Reserve University. I've done development work for startups involving data transformation, and I've worked with Machine Learning and App and Web Development in my courses. My main interests are in systems architecture, network analysis, and predictive modeling.
+I'm Ben. I'm currently a fourth-year student studying Computer Science and Data Science at Case Western Reserve University. I've done development work for startups involving data transformation and cloud infrastructure, and I've worked with Machine Learning and App and Web Development in my courses. My main interests are in systems architecture, network analysis, and predictive modeling.
 
 <!--### 🔭 I’m currently working on...
 -->
