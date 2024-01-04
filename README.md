@@ -1,10 +1,12 @@
 ### Hi there 👋
-I'm Ben. I'm currently a fourth-year student studying Computer Science and Data Science at Case Western Reserve University. I've done development work for startups involving data transformation and cloud infrastructure, and I've worked with Machine Learning and App and Web Development in my courses. My main interests are in systems architecture, network analysis, and predictive modeling.
+I'm Ben. I'm a recent graduate from Case Western Reserve University, having completed a B.S. in Data Science and Computer Science. I've done development work for startups involving data transformation and cloud infrastructure, and I've worked with Machine Learning and App and Web Development in my courses. 
 
-<!--### 🔭 I’m currently working on...
--->
+### 🔭 I’m currently working on...
+Some cool EdTech tools that I need to keep on the down low for now 🤐, as well as assisting with website development for my father's company
+
 ### 🌱 I’m currently learning
-Bioinformatics and Software Architecture 
+Project Management and React Native!
+
 <!--### 👯 I’m looking to collaborate on ...
 -->
 <!--### 💬 Ask me about ...
@@ -13,7 +15,7 @@ Bioinformatics and Software Architecture
 
 
 ### 📫 How to reach me:
-bcflock@gmail.com (Please put "GITHUB" in all caps in the subject line)
+bcflock@gmail.com
 
 ### 😄 Pronouns: ...
 -->
